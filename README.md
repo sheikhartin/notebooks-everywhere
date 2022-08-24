@@ -8,13 +8,17 @@ Here is where all my notebooks from Google Colab and [Kaggle](https://www.kaggle
 
 I preferred it to be categorized in this section rather than creating a separate folder... Now the name of the notebook (which may be different in different places) is mentioned along with a short description to make the choice easier...
 
-#### Machine Learning
-
-- [Accuracy score measuring](Accuracy_Score_Measuring.ipynb): Implementation of some well-known metrics to get the accuracy of your model!
-
 #### Tasting
 
 - [Gradio demo](Gradio_Demo.ipynb): Gradio is one of the fastest ways to make a quick demo for your f\*cking functions with a friendly web interface so that anyone can use it!
+
+#### Machine Learning
+
+- [Accuracy score measuring](Accuracy_Score_Measuring.ipynb): Implementation of some well-known metrics to get the accuracy of your model.
+
+#### Deep Learning
+
+- [Multi-layer perceptron from scratch](Multilayer_Perceptron_From_Scratch.ipynb): A good and useful experience of how a neural network works by implementing it after researching from different sources, which took about a week!
 
 ### License
 
