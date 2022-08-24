@@ -11,6 +11,7 @@ I preferred it to be categorized in this section rather than creating a separate
 #### Tasting
 
 - [Gradio Demo](Gradio_Demo.ipynb): Gradio is one of the fastest ways to make a quick demo for your ML model with a friendly web interface so that anyone can use it! (This is not just for highly specialized projects, you can even implement a [calculator](https://github.com/gradio-app/gradio/tree/main/demo/calculator) with it)
+- [Accuracy Score Measuring](Accuracy_Score_Measuring.ipynb): Implementation of some well-known metrics to get the accuracy of your model!
 
 ### License
 
