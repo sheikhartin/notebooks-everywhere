@@ -12,6 +12,10 @@ I preferred it to be categorized in this section rather than creating a separate
 
 - [Gradio demo](Gradio_Demo.ipynb): Gradio is one of the fastest ways to make a quick demo for your f\*cking functions with a friendly web interface so that anyone can use it!
 
+#### Data Science
+
+- [Exploratory data analysis on Titanic dataset](Titanic_EDA.ipynb): Nothing, just a simple EDA along with building models using FLAML on one of the most well-known datasets!
+
 #### Machine Learning
 
 - [Accuracy score measuring](Accuracy_Score_Measuring.ipynb): Implementation of some well-known metrics to get the accuracy of your model.
