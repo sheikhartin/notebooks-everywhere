@@ -16,6 +16,8 @@ I preferred it to be categorized in this section rather than creating a separate
 
 - [Exploratory data analysis on Titanic dataset](Titanic_EDA.ipynb): Nothing, just a simple EDA along with building models using FLAML on one of the most well-known datasets!
 
+- [Exploring the car evaluation dataset](Car_Evaluation_EDA.ipynb): Another famous dataset that we analyze and build models using two different AutoML frameworks...
+
 #### Machine Learning
 
 - [Accuracy score measuring](Accuracy_Score_Measuring.ipynb): Implementation of some well-known metrics to get the accuracy of your model.
