@@ -12,6 +12,8 @@ I preferred it to be categorized in this section rather than creating a separate
 
 - [Gradio demo](Gradio_Demo.ipynb): Gradio is one of the fastest ways to make a quick demo for your f\*cking functions with a friendly web interface so that anyone can use it!
 
+- [Conditional formatting in Pandas](Conditional_Formatting_in_Pandas.ipynb): Style your tables and make them more attractive with these simple steps!
+
 #### Data Science
 
 - [Exploratory data analysis on Titanic dataset](Titanic_EDA.ipynb): Nothing, just a simple EDA along with building models using FLAML on one of the most well-known datasets!
