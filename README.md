@@ -1,8 +1,8 @@
 ## Notebooks Everywhere
 
-Here is where all my notebooks from Google Colab and [Kaggle](https://www.kaggle.com/sheikhartin) meet! :boom: The reason for creating most of these notebooks is curiosity, which sometimes goes to [YouTube](https://www.youtube.com/channel/UCVfu2o2wsYq7XLJD5lLAQtg) for Farsi speakers!
+Here is where all my notebooks from Google Colab and [Kaggle](https://www.kaggle.com/sheikhartin) meet! (It even includes local notebooks) :clap: Also, GitHub is more suitable for tweaking than other platforms... The reason for creating most of these notebooks is curiosity, which sometimes goes to [YouTube](https://www.youtube.com/channel/UCVfu2o2wsYq7XLJD5lLAQtg) for Farsi speakers!
 
-![Curiosity but a little deeper](https://media.giphy.com/media/QvAeXpCo9eiEEozM09/giphy.gif)
+![Riding on the mind](https://media.giphy.com/media/TH1ke6AOuFCGvyGnuZ/giphy.gif)
 
 ### Contents
 
@@ -10,9 +10,9 @@ I preferred it to be categorized in this section rather than creating a separate
 
 #### Tasting
 
-- [Gradio demo](Gradio_Demo.ipynb): Gradio is one of the fastest ways to make a quick demo for your f\*cking functions with a friendly web interface so that anyone can use it!
+- [Gradio demo](Gradio_Demo.ipynb): Gradio is one of the fastest ways to make a quick demo for your damn functions with a friendly web interface so that anyone can use it!
 
-- [Conditional formatting in Pandas](Conditional_Formatting_in_Pandas.ipynb): Style your tables and make them more attractive with these simple steps!
+- [Conditional formatting in Pandas](Conditional_Formatting_in_Pandas.ipynb): Style your tables and make them more attractive with these simple steps! (Of course, it is not mandatory)
 
 #### Data Science
 
