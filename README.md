@@ -12,6 +12,10 @@ I preferred it to be categorized in this section rather than creating a separate
 
 - [Gradio demo](Gradio_Demo.ipynb): Gradio is one of the fastest ways to make a quick demo for your damn functions with a friendly web interface so that anyone can use it!
 
+#### Algorithms
+
+- [Merge sort algorithm](Merge_Sort_Algorithm.ipynb): Merge sort is one of the fastest comparison-based sorting algorithms, which works on the principle of the divide and conquer approach.
+
 #### Data Science
 
 - [Exploratory data analysis on Titanic dataset](Titanic_EDA.ipynb): Nothing, just a simple EDA along with building models using FLAML on one of the most well-known datasets!
