@@ -14,7 +14,7 @@ I preferred it to be categorized in this section rather than creating a separate
 
 #### Algorithms
 
-- [Merge sort algorithm](Merge_Sort_Algorithm.ipynb): Merge sort is one of the fastest comparison-based sorting algorithms, which works on the principle of the divide and conquer approach.
+- [Merge sort](Merge_Sort_Algorithm.ipynb): Merge sort is one of the fastest comparison-based sorting algorithms, which works on the principle of the divide and conquer approach.
 
 #### Data Science
 
@@ -23,6 +23,8 @@ I preferred it to be categorized in this section rather than creating a separate
 - [Exploring the car evaluation dataset](Car_Evaluation_EDA.ipynb): Another famous dataset that we analyze and build models using two different AutoML frameworks...
 
 - [Conditional formatting in Pandas](Conditional_Formatting_in_Pandas.ipynb): Style your tables and make them more attractive with these simple steps! (It is not mandatory)
+
+- [Working with large datasets in Pandas](Working_With_Large_Datasets_in_Pandas.ipynb): Pandas is not ideal for big data, but there are ways to improve performance.
 
 #### Machine Learning
 
