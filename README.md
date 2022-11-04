@@ -12,6 +12,8 @@ I preferred it to be categorized in this section rather than creating a separate
 
 - [Gradio demo](Gradio_Demo.ipynb): Gradio is one of the fastest ways to make a quick demo for your damn functions with a friendly web interface so that anyone can use it!
 
+- [Python codes executor](Python_Codes_Executor.ipynb): An executor of Python codes that has many bugs!
+
 #### Algorithms
 
 - [Merge sort](Merge_Sort_Algorithm.ipynb): Merge sort is one of the fastest comparison-based sorting algorithms, which works on the principle of the divide and conquer approach.
