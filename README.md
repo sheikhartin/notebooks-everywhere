@@ -12,7 +12,7 @@ I preferred it to be categorized in this section rather than creating a separate
 
 - [Gradio demo](Gradio_Demo.ipynb): Gradio is one of the fastest ways to make a quick demo for your damn functions with a friendly web interface so that anyone can use it!
 
-- [Python codes executor](Python_Codes_Executor.ipynb): An executor of Python codes that has many bugs!
+- [Python code executor](Python_Code_Executor.ipynb): An executor of Python code that has many bugs!
 
 #### Algorithms
 
