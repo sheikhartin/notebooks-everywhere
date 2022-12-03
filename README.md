@@ -8,16 +8,6 @@ Here is where all my notebooks from Google Colab and [Kaggle](https://www.kaggle
 
 I preferred it to be categorized in this section rather than creating a separate folder... Now the name of the notebook (which may be different in different places) is mentioned along with a short description to make the choice easier...
 
-#### Tasting
-
-- [Gradio demo](Gradio_Demo.ipynb): Gradio is one of the fastest ways to make a quick demo for your damn functions with a friendly web interface so that anyone can use it!
-
-- [Python code executor](Python_Code_Executor.ipynb): An executor of Python code that has many bugs!
-
-#### Algorithms
-
-- [Merge sort](Merge_Sort_Algorithm.ipynb): Merge sort is one of the fastest comparison-based sorting algorithms, which works on the principle of the divide and conquer approach.
-
 #### Data Science
 
 - [Exploratory data analysis on Titanic dataset](Titanic_EDA.ipynb): Nothing, just a simple EDA along with building models using FLAML on one of the most well-known datasets!
@@ -37,6 +27,14 @@ I preferred it to be categorized in this section rather than creating a separate
 - [Multi-layer perceptron from scratch](Multilayer_Perceptron_From_Scratch.ipynb): A good and useful experience of how a neural network works by implementing it after researching from different sources, which took about a week!
 
 - [Logic gates in PyTorch](Logic_Gates_in_PyTorch.ipynb): Implementation of some logic gates such as XOR, OR, and AND in PyTorch.
+
+#### Algorithms
+
+- [Merge sort](Merge_Sort_Algorithm.ipynb): Merge sort is one of the fastest comparison-based sorting algorithms, which works on the principle of the divide and conquer approach.
+
+#### Tasting
+
+- [Gradio demo](Gradio_Demo.ipynb): Gradio is one of the fastest ways to make a quick demo for your damn functions with a friendly web interface so that anyone can use it!
 
 ### License
 
