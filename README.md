@@ -18,6 +18,8 @@ I preferred it to be categorized in this section rather than creating a separate
 
 - [Working with large datasets in Pandas](Working_With_Large_Datasets_in_Pandas.ipynb): Pandas is not ideal for big data, but there are ways to improve performance.
 
+- [Netflix EDA](Netflix_Movies_and_TV_Shows_EDA.ipynb): A super simple analysis on the dataset of movies on Netflix that was created for a webinar...
+
 #### Machine Learning
 
 - [Accuracy score measuring](Accuracy_Score_Measuring.ipynb): Implementation of some well-known metrics to get the accuracy of your model.
