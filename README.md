@@ -34,6 +34,10 @@ I preferred it to be categorized in this section rather than creating a separate
 
 - [Merge sort](Merge_Sort_Algorithm.ipynb): Merge sort is one of the fastest comparison-based sorting algorithms, which works on the principle of the divide and conquer approach.
 
+#### Refactoring
+
+- [Morse code translator](Morse_Code_Translator.ipynb): A tool to encode your messages into Morse code and decode it.
+
 #### Tasting
 
 - [Gradio demo](Gradio_Demo.ipynb): Gradio is one of the fastest ways to make a quick demo for your damn functions with a friendly web interface so that anyone can use it!
