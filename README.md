@@ -1,6 +1,6 @@
 ## Notebooks Everywhere
 
-Here is where all my notebooks from Google Colab and [Kaggle](https://www.kaggle.com/sheikhartin) meet! (It even includes local notebooks) Also, GitHub is more suitable for tweaking than other platforms... The reason for creating most of these notebooks is curiosity, which sometimes goes to [YouTube](https://www.youtube.com/channel/UCVfu2o2wsYq7XLJD5lLAQtg) for Farsi speakers!
+Here is where all my notebooks from Google Colab and [Kaggle](https://www.kaggle.com/sheikhartin) meet! (It even includes local notebooks) Also, GitHub is more suitable for tweaking than other platforms... The reason for creating most of these notebooks is curiosity, which sometimes goes to [YouTube](https://www.youtube.com/@artin-mohammadi) for Farsi speakers!
 
 ![Wow](https://media.giphy.com/media/gtakVlnStZUbe/giphy.gif)
 
@@ -14,7 +14,7 @@ I preferred it to be categorized in this section rather than creating a separate
 
 - [Exploring the car evaluation dataset](Car_Evaluation_EDA.ipynb): Another famous dataset that we analyze and build models using two different AutoML frameworks...
 
-- [Conditional formatting in Pandas](Conditional_Formatting_in_Pandas.ipynb): Style your tables and make them more attractive with these simple steps! (It is not mandatory)
+- [Conditional formatting in Pandas](Conditional_Formatting_in_Pandas.ipynb): Style your tables and make them more attractive with these simple steps! (It is not mandatory) — Exploration in the dataset of used cars
 
 - [Working with large datasets in Pandas](Working_With_Large_Datasets_in_Pandas.ipynb): Pandas is not ideal for big data, but there are ways to improve performance.
 
@@ -37,6 +37,8 @@ I preferred it to be categorized in this section rather than creating a separate
 #### Refactoring
 
 - [Morse code translator](Morse_Code_Translator.ipynb): A tool to encode your messages into Morse code and decode it.
+
+- [Balanced punctuations](Balanced_Punctuations.ipynb): Find out if the punctuations are pair or not!
 
 #### Tasting
 
