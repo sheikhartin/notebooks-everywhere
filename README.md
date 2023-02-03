@@ -40,6 +40,8 @@ I preferred it to be categorized in this section rather than creating a separate
 
 - [Balanced punctuations](Balanced_Punctuations.ipynb): Find out if the punctuations are pair or not!
 
+- [Lexical analyzer](A_Lexical_Analyzer.ipynb): Simply define your programming language tokens and then tokenize your code with it.
+
 #### Tasting
 
 - [Gradio demo](Gradio_Demo.ipynb): Gradio is one of the fastest ways to make a quick demo for your damn functions with a friendly web interface so that anyone can use it!
