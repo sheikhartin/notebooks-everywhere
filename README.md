@@ -18,7 +18,7 @@ I preferred it to be categorized in this section rather than creating a separate
 
 - [Working with large datasets in Pandas](Working_With_Large_Datasets_in_Pandas.ipynb): Pandas is not ideal for big data, but there are ways to improve performance.
 
-- [Netflix EDA](Netflix_Movies_and_TV_Shows_EDA.ipynb): A simple analysis that was done for a webinar on the dataset of movies available on Netflix...
+- [Netflix EDA](Netflix_Movies_and_TV_Shows_EDA.ipynb): An analysis of the relatively famous Netflix dataset inspired by different ideas...
 
 #### Machine Learning
 
