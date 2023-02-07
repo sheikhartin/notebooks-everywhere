@@ -1,12 +1,14 @@
 ## Notebooks Everywhere
 
-Here is where all my notebooks from Google Colab and [Kaggle](https://www.kaggle.com/sheikhartin) meet! (It even includes local notebooks) Also, GitHub is more suitable for tweaking than other platforms... The reason for creating most of these notebooks is curiosity, which sometimes goes to [YouTube](https://www.youtube.com/@artin-mohammadi) for Farsi speakers!
+Here is where all my notebooks from Google Colab and [Kaggle](https://www.kaggle.com/sheikhartin) meet! (It even includes local notebooks) Also, GitHub is more suitable for tweaking than other platforms... The reason for creating most of these notebooks is curiosity, which sometimes goes to [YouTube](https://www.youtube.com/@artin-mohammadi) for Persian speaking audience!
 
 ![Wow](https://media.giphy.com/media/gtakVlnStZUbe/giphy.gif)
 
 ### Contents
 
-I preferred it to be categorized in this section rather than creating a separate folder... Now the name of the notebook (which may be different in different places) is mentioned along with a short description to make the choice easier...
+I preferred it to be categorized in this section rather than creating a separate folder... Now the name of the notebook (which may be different in different places) is mentioned along with a short description to make the choice easier.
+
+_NOTE: Sometimes it is difficult to classify because a notebook can contain several subjects..._
 
 #### Data Science
 
