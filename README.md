@@ -8,19 +8,19 @@ Here is where all my notebooks from Google Colab and [Kaggle](https://www.kaggle
 
 I preferred it to be categorized in this section rather than creating a separate folder... Now the name of the notebook (which may be different in different places) is mentioned along with a short description to make the choice easier.
 
-_NOTE: Sometimes it is difficult to classify because a notebook can contain several subjects..._
+_Note: Sometimes it is difficult to classify because a notebook can contain several subjects..._
 
 #### Data Science
 
 - [Exploratory data analysis on Titanic dataset](Titanic_EDA.ipynb): Nothing, just a simple EDA along with building models using FLAML on one of the most well-known datasets!
 
-- [Exploring the car evaluation dataset](Car_Evaluation_EDA.ipynb): Another famous dataset that we analyze and build models using two different AutoML frameworks...
+- [Exploring the car evaluation dataset](Car_Evaluation_EDA.ipynb): Another well-known dataset that we want to model using an AutoML framework...
 
-- [Conditional formatting in Pandas](Conditional_Formatting_in_Pandas.ipynb): Style your tables and make them more attractive with these simple steps! (It is not mandatory) — Exploration in the dataset of used cars
+- [Conditional formatting in Pandas](Conditional_Formatting_in_Pandas.ipynb): Style your tables and make them more attractive with these simple steps! — Exploration in the dataset of used cars
 
 - [Working with large datasets in Pandas](Working_With_Large_Datasets_in_Pandas.ipynb): Pandas is not ideal for big data, but there are ways to improve performance.
 
-- [Netflix EDA](Netflix_Movies_and_TV_Shows_EDA.ipynb): An analysis of the relatively famous Netflix dataset inspired by different ideas...
+- [Netflix EDA](Netflix_Movies_and_TV_Shows_EDA.ipynb): Analyzing an almost famous Netflix dataset inspired by different ideas...
 
 #### Machine Learning
 
@@ -40,9 +40,9 @@ _NOTE: Sometimes it is difficult to classify because a notebook can contain seve
 
 - [Morse code translator](Morse_Code_Translator.ipynb): A tool to encode your messages into Morse code and decode it.
 
-- [Balanced punctuations](Balanced_Punctuations.ipynb): Find out if the punctuations are pair or not!
-
 - [Lexical analyzer](A_Lexical_Analyzer.ipynb): Simply define your programming language tokens and then tokenize your code with it.
+
+- [Balanced punctuations](Balanced_Punctuations.ipynb): Find out if the punctuations are pair or not!
 
 #### Tasting
 
