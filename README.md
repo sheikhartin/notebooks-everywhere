@@ -24,6 +24,8 @@ _Note: Sometimes it is difficult to classify because a notebook can contain seve
 
 - [Cleaning data using shell scripting](Cleaning_Mobile_Phone_Price_Dataset_Using_Shell_Scripting.ipynb): In this notebook, we try to clean a dirty dataset with some basic Linux (Unix family in general) tools.
 
+- [Analysis of mobile phone price](Mobile_Phone_Price_EDA.ipynb): Cleaning and exploring inside the mobile phone price dataset.
+
 #### Machine Learning
 
 - [Accuracy score measuring](Accuracy_Score_Measuring.ipynb): Implementation of some well-known metrics to get the accuracy of your model.
