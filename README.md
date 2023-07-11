@@ -52,6 +52,8 @@ _Note: Sometimes it is difficult to classify because a notebook can contain seve
 
 - [Gradio demo](Gradio_Demo.ipynb): Gradio is one of the fastest ways to make a quick demo for your damn functions with a friendly web interface so that anyone can use it!
 
+- [How to generate fake data](Creating_a_Fake_Dataset.ipynb): Here we will learn how to add some fake data to the PostgreSQL database to make us look more cool!
+
 ### License
 
 No license specified for this project yet.
