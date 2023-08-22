@@ -28,7 +28,9 @@ _Note: Sometimes it is difficult to classify because a notebook can contain seve
 
 - [Analysis of mobile phone price](Mobile_Phone_Price_EDA.ipynb): Cleaning and exploring inside the mobile phone price dataset.
 
-- [Developers tech stack](Developers_Tech_Stack_Scraper.ipynb): A scraper to extract interesting data from software developers!
+- [Developers tech stack scraper](Developers_Tech_Stack_Scraper.ipynb): A scraper to extract interesting data from software developers!
+
+- [Parts of a failed project](Parts_of_a_Failed_Project.ipynb): Three parts of a cryptocurrency trader bot project...
 
 #### Machine Learning
 
