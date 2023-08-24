@@ -24,11 +24,15 @@ _Note: Sometimes it is difficult to classify because a notebook can contain seve
 
 - [Flagpedia web scraping](Flagpedia_Scraper.ipynb): Just a simple project for my YouTube channel.
 
+- [Scraping an Iranian sock store](Scraping_an_Iranian_Sock_Store.ipynb): Just to practice how to use hidden APIs.
+
 - [Cleaning data using shell scripting](Cleaning_Mobile_Phone_Price_Dataset_Using_Shell_Scripting.ipynb): In this notebook, we try to clean a dirty dataset with some basic Linux (Unix family in general) tools.
 
 - [Analysis of mobile phone price](Mobile_Phone_Price_EDA.ipynb): Cleaning and exploring inside the mobile phone price dataset.
 
 - [Developers tech stack scraper](Developers_Tech_Stack_Scraper.ipynb): A scraper to extract interesting data from software developers!
+
+- [Geany themes scraper](Geany_Themes_Scraper.ipynb): Save time and energy by automatically downloading something!
 
 - [Parts of a failed project](Parts_of_a_Failed_Project.ipynb): Three parts of a cryptocurrency trader bot project...
 
