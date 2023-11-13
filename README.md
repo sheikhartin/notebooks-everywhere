@@ -36,6 +36,8 @@ _Note: Sometimes it is difficult to classify because a notebook can contain seve
 
 - [Parts of a failed project](Parts_of_a_Failed_Project.ipynb): Three parts of a cryptocurrency trader bot project...
 
+- [About meta-heuristic algorithms](On_Metaheuristic_Algorithms.ipynb): Papers related to meta-heuristic algorithms...
+
 #### Machine Learning
 
 - [Accuracy score measuring](Accuracy_Score_Measuring.ipynb): Implementation of some well-known metrics to get the accuracy of your model.
