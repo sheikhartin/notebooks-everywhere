@@ -48,6 +48,8 @@ _Note: Sometimes it is difficult to classify because a notebook can contain seve
 
 - [Logic gates in PyTorch](Logic_Gates_in_PyTorch.ipynb): Implementation of some logic gates such as XOR, OR, and AND in PyTorch.
 
+- [Convolutional neural network for MNIST](CNN_for_Digit_Recognition.ipynb): Building a basic CNN in PyTorch for handwritten digit recognition (with detailed explanations).
+
 #### Algorithms
 
 - [Merge sort](Merge_Sort_Algorithm.ipynb): Merge sort is one of the fastest comparison-based sorting algorithms, which works on the principle of the divide and conquer approach.
