@@ -50,6 +50,8 @@ _Note: Sometimes it is difficult to classify because a notebook can contain seve
 
 - [Convolutional neural network for MNIST](CNN_for_Digit_Recognition.ipynb): Building a basic CNN in PyTorch for handwritten digit recognition (with detailed explanations).
 
+- [ZIP code reader using CNN](Convolutional_Neural_Network_for_Handwritten_ZIP_Code_Digits.ipynb): Moving beyond single digits! This project simulates ZIP codes by concatenating MNIST images and builds a CNN in PyTorch to recognize the full sequence at once.
+
 #### Algorithms
 
 - [Merge sort](Merge_Sort_Algorithm.ipynb): Merge sort is one of the fastest comparison-based sorting algorithms, which works on the principle of the divide and conquer approach.
